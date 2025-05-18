@@ -23,16 +23,20 @@ AI 换脸项目 (基于 Roop)
   
   应用界面→
   
-  ![](file:///C:/Users/23129/Desktop/bigdata/e1e7aff1ef1c26a8298511db8ab5c43.png)
+  ![界面](assets/ui.jpg)
+
   
   
   
   换脸效果→
   
-  ![](file:///C:/Users/23129/Desktop/bigdata/qsh.jpg)
+![人脸源](assets/face.jpg)
 
-![](file:///C:/Users/23129/Desktop/bigdata/5c912715cd39456ab6fcd0ded2ff88d.png)
+
+![目标视频](assets/vedio.jpg)
+
 
 合成后→
 
-![](file:///C:/Users/23129/Desktop/bigdata/902ff5cab35db5b441839781504f96f.png)
+![换脸效果图](assets/result.jpg)
+
