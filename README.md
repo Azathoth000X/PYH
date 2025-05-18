@@ -21,22 +21,22 @@ AI 换脸项目 (基于 Roop)
 
 * 可选多人脸和画质增强功能
   
-  应用界面→
+  
   
   ![界面](assets/ui.jpg)
 
   
   
   
-  换脸效果→
+ 
   
-![人脸源](assets/face.jpg)
+  ![人脸源](assets/face.jpg)
 
 
-![目标视频](assets/vedio.jpg)
+  ![目标视频](assets/vedio.jpg)
 
 
-合成后→
 
-![换脸效果图](assets/result.jpg)
+
+  ![换脸效果图](assets/result.jpg)
 
