@@ -23,7 +23,7 @@ AI 换脸项目 (基于 Roop)
   
   
   
-  ![界面](assets/ui.jpg)
+  ![界面](assets/ui.png)
 
   
   
@@ -33,10 +33,10 @@ AI 换脸项目 (基于 Roop)
   ![人脸源](assets/face.jpg)
 
 
-  ![目标视频](assets/vedio.jpg)
+  ![目标视频](assets/vedio.png)
 
 
 
 
-  ![换脸效果图](assets/result.jpg)
+  ![换脸效果图](assets/result.png)
 
